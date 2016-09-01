@@ -1,7 +1,6 @@
 ## 个人信息
 
  - 李富冰 / 男 / 1994 
- - 应聘职位：iOS 开发实习
  - 本科/成都信息工程大学计算机系/2017届 
  - 技术博客：[简书 ID：lfb_CD](http://www.jianshu.com/users/e78a977ccaeb/latest_articles)
  - Github: [https://github.com/lfb-cd](https://github.com/lfb-cd)
