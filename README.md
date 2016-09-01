@@ -1,6 +1,6 @@
 ## 个人信息
 
- - 李富冰 / 男 / 1994 
+ - 李富冰 / 男 / 1994 / 一年工作经验
  - 本科/成都信息工程大学计算机系/2017届 
  - 技术博客：[简书 ID：lfb_CD](http://www.jianshu.com/users/e78a977ccaeb/latest_articles)
  - Github: [https://github.com/lfb-cd](https://github.com/lfb-cd)
@@ -11,8 +11,9 @@
 
 ### 项目经验
 
-- 实习工作 亚信科技（成都） "和动力"APP开发 - 至今
-	>简介：该项目为中国移动公开渠道订货平台，是一款b2b的电商项目，		我主要参与了1.3版本的原生开发以及打包上架等工作。涉及一下方面的工作：
+- 实习工作项目 亚信科技(成都) "和动力" iOS客户端开发 - 至今
+	>简介：该项目为中国移动公开渠道订货平台，一款b2b的电商项目 [AppStore 链接](https://itunes.apple.com/cn/app/he-dong-li/id1114748977?mt=8)
+
 	- 完成支付功能(支付宝与微信支付)
 	- 版本控制功能(支持强制更新)
 	- 使用第三方个推推送服务
@@ -20,17 +21,15 @@
 	- 使用`CoreData`存储搜索记录
 	- 使用`Git`进行版本控制
 	- 使用第三方库 `WebViewJavascriptBridge`OC与JS混合开发
-	- AppStore地址：[https://itunes.apple.com/cn/app/he-dong-li/id1114748977?mt=8](https://itunes.apple.com/cn/app/he-dong-li/id1114748977?mt=8)
 
+- 实习工作项目 成都盛思睿技术安全网盘APP开发，2人团队开发 （2015年12月 - 2016年5月）
+	>简介：在盛思睿公司做的一款类似百度云盘的iOS客户端 [AppStore 链接](https://appsto.re/cn/nnSEbb.i)
 
-- 实习工作 成都盛思睿技术 iOS 平台安全网盘客户端，2人团队开发 （2015年12月 - 2016年5月）
-	>简介：在盛思睿公司做的一款类似百度云盘的iOS客户端。完成大部分工作。
 	- 实现断点上传与下载，以及下载队列管理
 	- 使用`ASIHTTPRequest`类库进行网络数据请求
 	- 使用`SQLite`进行数据存储
 	- 使用SVN进行团队合作。
-	- AppStore地址：[https://appsto.re/cn/nnSEbb.i](https://appsto.re/cn/nnSEbb.i)
-
+ 
 - 基于iOS，Android，Web的健康管理软件，2人团队开发 （2016年4月 - 至今）
 	>简介：一款健康管理软件，计步，睡眠监控，以及饮水情况，界面仿照`dribbble`上一位设计师的创意。
 	- 我主要负责iOS与Web端，目前还在开发阶段。已成功申请到大学生创新创业训练计划省级项目，国家级正在申报中。
@@ -75,5 +74,5 @@
 
 ## 学习经历
 - 在校期间通过网络自学 iOS 开发。先学习`Swift`新语言做了几个小项目。由于中文资料较少，便开始阅读国外文章(ray)与视频(YouTube与斯坦福公开课)。资料看得多，便开了一个微博账号，收集与分享iOS开发的资料，同时也从YouTube下载了不少优质的视频，供大家学习。目前微博粉丝数达到了1600多人，微信公众号也有1600多名。每分享一篇文章都受到了很多人的关注，最多的一条博文达到349条转发，6万多阅读。也成为当时学习iOS开发的动力主要动力。
-- 后来学校比赛认识一位老师，被邀请帮助开发安全网盘的iOS客户端。由于公司要求使用`OC`进行开发，所以便开始认真学习使用`Objective-C`了。通过这个云盘项目，学习到了很多`OC`的多线程，加锁以及断点续传等技术，同时将项目发布到了AppStore，五一又用三天时间写了一个网速监控软件发布到AppStore，[AppStore地址](https://itunes.apple.com/us/developer/sheng-si-rui-xin-xi-ji-shu/id1098564428) 7k下载 88个评分 83个五星。
+- 后来学校比赛认识一位老师，被邀请帮助开发安全网盘的iOS客户端。由于公司要求使用`OC`进行开发，所以便开始认真学习使用`Objective-C`了。通过这个云盘项目，学习到了很多`OC`的多线程，加锁以及断点续传等技术，同时将项目发布到了AppStore，五一又用三天时间写了一个网速监控软件发布到AppStore，[地址](https://itunes.apple.com/us/developer/sheng-si-rui-xin-xi-ji-shu/id1098564428) 7k下载 88个评分 83个五星。
 - 学习`Swift`语言的时候，翻译过几篇文章，后来有幸受邀加入SwiftGG翻译组。参与翻译了《The Swift Programming Language》，同时也翻译了多篇国外Swift优秀博文，总字数已有36573字，许多翻译文章多次入选热门首页。翻译组网站：[http://swift.gg](http://swift.gg)
