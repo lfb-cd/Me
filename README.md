@@ -15,18 +15,18 @@
 	>简介：该项目为中国移动公开渠道订货平台，一款b2b的电商项目 [AppStore 链接](https://itunes.apple.com/cn/app/he-dong-li/id1114748977?mt=8)
 
 	- 完成支付功能(支付宝与微信支付)
-	- 版本控制功能(支持强制更新)
-	- 使用第三方个推推送服务
-	- 使用百度移动统计
-	- 使用`CoreData`存储搜索记录
+	- 原生OC与JS混合开发，涉及UIWebview注入模型以及第三方库 `WebViewJavascriptBridge`的使用
+	- 完成APNS推送功能，项目暂时没有消息中心，做到点击一条消息处理一条，且其他消息不清除
+	- 使用`CoreData`存储数据以及版本迁移
 	- 使用`Git`进行版本控制
-	- 使用第三方库 `WebViewJavascriptBridge`OC与JS混合开发
+	- 分别与H5，服务端，安卓端有过联合开发
 
 - 实习工作项目 成都盛思睿技术安全网盘APP开发，2人团队开发 （2015年12月 - 2016年5月）
 	>简介：在盛思睿公司做的一款类似百度云盘的iOS客户端 [AppStore 链接](https://appsto.re/cn/nnSEbb.i)
 
-	- 实现断点上传与下载，以及下载队列管理
-	- 使用`ASIHTTPRequest`类库进行网络数据请求
+	- 使用NSOperation实现下载队列以及多线程下载
+	- 实现数据的断点上传与下载
+	- 在`ASIHTTPRequest`类库基础之上对网络请求进行封装
 	- 使用`SQLite`进行数据存储
 	- 使用SVN进行团队合作。
  
