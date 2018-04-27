@@ -54,7 +54,8 @@
 	- 调用 `AppleScript` 脚本模拟按键进行解锁 以及控制PPT
 
 - 其他个人项目
-	- iOS 上展示网速统计流量工具 [AppStore 链接](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1109807177&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8) （40k下载量）
+	- iOS 上展示网速统计流量工具 [AppStore 链接](https://itunes.apple.com/cn/app/net-系统监测网速展示流量统计工具/id1288011873?mt=8) （40k下载量）
+	- 其他已上线APP:[AppStore 链接](https://itunes.apple.com/cn/developer/fubing-li/id1198077659?mt=8)	
 	- OS X 平台的查词软件，独立开发（翻译结果在状态栏显示）
 	- iOS 平台的记事本应用(可在后台监控复制的数据，灵感来自于有道词典的跨软件拷贝查词功能)
 	- Android 平台的记事本应用 
